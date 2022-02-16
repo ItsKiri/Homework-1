@@ -5,7 +5,7 @@ New Feature: I make all the attributes in these classes private, and create gett
 Instructions:</br>
 1. open console.</br>
 2. direct to homework1.js.</br>
-3. node homework1.js.</br>
+3. type 'node homework1.js' in console.</br>
 
 Test:</br>
 1. presents 3 kinds of publications(paper, book and webpage) by APA/MLA.</br>
