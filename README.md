@@ -4,7 +4,7 @@ This is a program to represent different kinds of publications by APA/MLA.</br>
 New Feature: I make all the attributes in these classes private, and create getters/setters to implement encapsulation.</br>
 Instructions:</br>
 1. open console.</br>
-2. direct to the homework1.js.</br>
+2. direct to homework1.js.</br>
 3. node homework1.js.</br>
 
 Test:</br>
