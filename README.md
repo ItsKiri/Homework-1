@@ -6,6 +6,7 @@ Instructions:</br>
 1. open console.</br>
 2. direct to the homework1.js.</br>
 3. node homework1.js.</br>
+
 Test:</br>
 1. presents 3 kinds of publications(paper, book and webpage) by APA/MLA.</br>
 2. remove the 2nd publication.</br>
